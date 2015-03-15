@@ -1,0 +1,31 @@
+/*
+ 	ECompare
+ */
+.ecompare_results table {
+	width: 100%;
+	border-top: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	text-align: left;
+	font-size: larger;
+}
+
+.ecompare_results table th {
+	background-color: #eee;
+	padding: 5px !important;
+}
+.ecompare_results table .firstcol { 
+}
+
+.ecompare_results table td {
+	padding: 5px;
+}
+
+.ecompare_results table td, .ecompare_results table th {
+	border-right: 1px solid #aaa;
+	border-bottom: 1px solid #aaa;
+}
+
+
+.ecompare_results form .leftpanel {
+	display: inline-block;
+}
